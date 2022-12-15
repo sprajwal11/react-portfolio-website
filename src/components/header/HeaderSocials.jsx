@@ -6,9 +6,9 @@ import {FaTwitterSquare} from 'react-icons/fa'
 const HeaderSocials = () => {
   return (
     <div className='header_socials'>
-    <a href="https://linkedin.com" target="_blank"><BsLinkedin/></a>
-      <a href="https://github.com" target="_blank"><FaGithub/></a>
-      <a href="https://twitter.com" target="_blank"><FaTwitterSquare/></a>
+    <a href="https://www.linkedin.com/in/prajwal11/" target="_blank"><BsLinkedin/></a>
+      <a href="https://github.com/sprajwal11" target="_blank"><FaGithub/></a>
+      <a href="https://twitter.com/an_alive_human" target="_blank"><FaTwitterSquare/></a>
     </div>
   )
 }
