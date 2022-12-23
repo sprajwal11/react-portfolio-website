@@ -47,7 +47,7 @@
     border-color: var(--color-primary-variant);
     cursor: default;
 }
-about_icon{
+.about_icon{
     color: var(--color-primary);
     font-size: 1.4rem;
     margin-bottom: 1rem;
@@ -55,6 +55,7 @@ about_icon{
 
 .about_card h5{
     font-size: 0.9rem;
+
 }
 
 .about_card small{
